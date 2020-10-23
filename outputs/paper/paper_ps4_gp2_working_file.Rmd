@@ -1,0 +1,60 @@
+---
+title: "TBD"
+subtitle: "TBD"
+author: "Haili Su, Xingyu Yu, Jiaxiang Miao"
+thanks: "codes and data..."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+abstract: |
+  | First sentence. Second sentence. Third sentence. Fourth sentence. 
+  Keywords: forecasting, 
+output: pdf_document
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+```
+
+# Introduction 
+
+# Data
+
+## Individual-level survey data
+
+## Post-stratification data
+
+# Model
+
+# Results
+
+# Discussion 
+
+## National popular vote forecasting 
+
+### Implication
+
+### (.by demo group analysis 1)
+
+### (.by demo group analysis 2)
+...
+
+## National electoral college results forecasting
+
+### State level forecasts
+
+### Implication
+
+## Weakness & Next Step
+
+\newpage
+
+# Appendix {-}
+
+\newpage
+
+# References
+
+
+
