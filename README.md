@@ -4,8 +4,8 @@ This repo contains code and data for forecasting the US 2020 presidential electi
 
 Inputs contain data that are unchanged from their original. We use two datasets: 
 
-- The June 25th, 2020 survey results of Democracy Fund + UCLA Nationscape project is the individual survey level data we use. The data can be obtained through: https://www.voterstudygroup.org/publication/nationscape-data-set ;
-- The 2018 American Community Survey results is used for post-stratification. The data is obtained from IPUMS USA (https://usa.ipums.org/usa/index.shtml). We are unable to share the raw ACS dataset with selected variable due to its file size. 
+- The June 25th, 2020 survey results of Democracy Fund + UCLA Nationscape project are the individual survey level data we use. The data can be obtained through: https://www.voterstudygroup.org/publication/nationscape-data-set ;
+- The 2018 American Community Survey results are used for post-stratification. The data is obtained from IPUMS USA (https://usa.ipums.org/usa/index.shtml). We are unable to share the raw ACS dataset with selected variable due to its file size. 
 
 Outputs contain data that are modified from the input data, the report and supporting material.
 
