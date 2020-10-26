@@ -176,6 +176,6 @@ post_acs <- post_acs %>% mutate(age = age_gp,
 cell_counts <- post_acs %>% group_by(state, gender, as.factor(age), race, hisp, edu) %>% count() %>% rename(age = "as.factor(age)")
 
 #Create a .csv file
-write.csv(cell_counts, "cells_post.csv")
+write.csv(cell_counts, "outputs/data/cells_post.csv")
 
          

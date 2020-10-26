@@ -151,4 +151,4 @@ survey <- survey %>% mutate(reg = reg_sta,
                             intention = int_sta,
                             income = income_sta)
 #create the .csv file:
-write.csv(survey, "survey.csv")
+write.csv(survey, "outputs/data/survey.csv")
