@@ -9,8 +9,10 @@ Inputs contain data that are unchanged from their original. We use two datasets:
 
 Outputs contain data that are modified from the input data, the report and supporting material.
 
-- X, 
-- Y
+- In /data folder:
+- surevy.csv is the survey data from Nationscape after cleaning and reorganizing;
+- cells_post.csv is the cells data frame from the ACS dataset;
+- In /paper folder:
 
 Scripts contain R scripts that take inputs and outputs and produce outputs. These are:
 
