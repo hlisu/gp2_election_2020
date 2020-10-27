@@ -1,7 +1,7 @@
 ---
 title: "TBD"
 subtitle: "TBD"
-author: "Haili Su, Xingyu Yu, Jiaxiang Miao"
+author: "Haili Su, Xingyu Yu"
 thanks: "codes and data..."
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: |
