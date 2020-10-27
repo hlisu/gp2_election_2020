@@ -1,6 +1,6 @@
 # Overview
 
-This repo contains code and data for forecasting the US 2020 presidential election. It was created by Jiaxiang Miao, Xingyu Yu and Haili Su. The purpose is to create a report that summarizes the results of a statistical model that we built for forecasting. Some data are unable to be shared publicly. The way to get them is detailed below. The sections of this repo are: inputs, outputs, scripts.
+This repo contains code and data for forecasting the US 2020 presidential election. It was created by Haili Su and Xingyu Yu. The purpose is to create a report that summarizes the results of a statistical model that we built for forecasting. Some data are unable to be shared publicly. The way to get them is detailed below. The sections of this repo are: inputs, outputs, scripts.
 
 Inputs contain data that are unchanged from their original. We use two datasets: 
 
